@@ -98,7 +98,6 @@ C:\Users\PPetrov\OneDrive - ENDAVA\University\Master\Semester 2\МИС\Курс�
 C:\Users\PPetrov\OneDrive - ENDAVA\University\Master\Semester 2\МИС\Курсов проект\LMS\LMS\LMS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\PPetrov\OneDrive - ENDAVA\University\Master\Semester 2\МИС\Курсов проект\LMS\LMS\LMS\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\PPetrov\OneDrive - ENDAVA\University\Master\Semester 2\МИС\Курсов проект\LMS\LMS\LMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\PPetrov\OneDrive - ENDAVA\University\Master\Semester 2\МИС\Курсов проект\LMS\LMS\LMS\obj\Debug\LMS.csprojAssemblyReference.cache
 C:\Users\PPetrov\OneDrive - ENDAVA\University\Master\Semester 2\МИС\Курсов проект\LMS\LMS\LMS\obj\Debug\LMS.Migrations.InitialCreate.resources
 C:\Users\PPetrov\OneDrive - ENDAVA\University\Master\Semester 2\МИС\Курсов проект\LMS\LMS\LMS\obj\Debug\LMS.Migrations.CustomerModelAdded.resources
 C:\Users\PPetrov\OneDrive - ENDAVA\University\Master\Semester 2\МИС\Курсов проект\LMS\LMS\LMS\obj\Debug\LMS.Migrations.BorrowHistoryAdded.resources
@@ -107,3 +106,9 @@ C:\Users\PPetrov\OneDrive - ENDAVA\University\Master\Semester 2\МИС\Курс�
 C:\Users\PPetrov\OneDrive - ENDAVA\University\Master\Semester 2\МИС\Курсов проект\LMS\LMS\LMS\obj\Debug\LMS.csproj.CopyComplete
 C:\Users\PPetrov\OneDrive - ENDAVA\University\Master\Semester 2\МИС\Курсов проект\LMS\LMS\LMS\obj\Debug\LMS.dll
 C:\Users\PPetrov\OneDrive - ENDAVA\University\Master\Semester 2\МИС\Курсов проект\LMS\LMS\LMS\obj\Debug\LMS.pdb
+C:\Users\PPetrov\OneDrive - ENDAVA\University\Master\Semester 2\МИС\Курсов проект\LMS\LMS\LMS\bin\Mvc.RazorTools.dll
+C:\Users\PPetrov\OneDrive - ENDAVA\University\Master\Semester 2\МИС\Курсов проект\LMS\LMS\LMS\bin\Mvc.RazorTools.FontAwesome.dll
+C:\Users\PPetrov\OneDrive - ENDAVA\University\Master\Semester 2\МИС\Курсов проект\LMS\LMS\LMS\bin\WebActivatorEx.dll
+C:\Users\PPetrov\OneDrive - ENDAVA\University\Master\Semester 2\МИС\Курсов проект\LMS\LMS\LMS\bin\Mvc.RazorTools.xml
+C:\Users\PPetrov\OneDrive - ENDAVA\University\Master\Semester 2\МИС\Курсов проект\LMS\LMS\LMS\bin\Mvc.RazorTools.FontAwesome.xml
+C:\Users\PPetrov\OneDrive - ENDAVA\University\Master\Semester 2\МИС\Курсов проект\LMS\LMS\LMS\obj\Debug\LMS.csprojAssemblyReference.cache

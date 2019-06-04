@@ -1,16 +1,28 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using LMS.Models;
+using System.Data.Entity;
 using System.Linq;
-using System.Web;
+using System.Net;
 using System.Web.Mvc;
 
 namespace LMS.Controllers
 {
     public class HomeController : Controller
     {
+        private ApplicationDbContext db = new ApplicationDbContext();
+
         public ActionResult Index()
         {
-            return View();
+            var books = db.Books.Include(h => h.BorrowHistories)
+                .Select(b => new BookViewModel
+                {
+                    BookId = b.BookId,
+                    Author = b.Author,
+                    Publisher = b.Publisher,
+                    SerialNumber = b.SerialNumber,
+                    Title = b.Title,
+                    IsAvailable = !b.BorrowHistories.Any(h => h.ReturnDate == null)
+                }).ToList();
+            return View(books);
         }
 
         public ActionResult About()
@@ -26,5 +38,6 @@ namespace LMS.Controllers
 
             return View();
         }
+       
     }
 }
